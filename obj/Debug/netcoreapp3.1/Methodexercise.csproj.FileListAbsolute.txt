@@ -1,0 +1,13 @@
+C:\Users\apowa\repos\Methodexercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.exe
+C:\Users\apowa\repos\Methodexercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.deps.json
+C:\Users\apowa\repos\Methodexercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.runtimeconfig.json
+C:\Users\apowa\repos\Methodexercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.runtimeconfig.dev.json
+C:\Users\apowa\repos\Methodexercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.dll
+C:\Users\apowa\repos\Methodexercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.pdb
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.AssemblyInfoInputs.cache
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.AssemblyInfo.cs
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.csproj.CoreCompileInputs.cache
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.dll
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.pdb
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.genruntimeconfig.cache
+C:\Users\apowa\repos\Methodexercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.csprojAssemblyReference.cache
